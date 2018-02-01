@@ -10,8 +10,8 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font: normal 100%/1.3 serif;
-  font-family: 'Roboto Slab', serif;
+  font: normal 100%/1.3;
+  font-family: "Roboto Slab", serif;
 }
 
 *, *::before, *::after {
@@ -30,7 +30,7 @@ body {
 figcaption {
   max-width: 15em;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   margin: .5rem;
   padding: 1rem;
   border-radius: 10px;
